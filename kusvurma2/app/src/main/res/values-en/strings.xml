@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kusvurma2</string>
+    <string name="ucanı_vur">I HAVE TO FLY</string>
+    <string name="basla">PLAY</string>
+    <string name="en_yuksek_skor">HIGHSCORE</string>
+</resources>
